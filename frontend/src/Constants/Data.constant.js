@@ -1,7 +1,8 @@
-const domainUrl = 'https://api.tuneplus.org/';
+// const domainUrl = 'https://api.tuneplus.org/';
 //  const domainUrl = 'http://localhost:8002/';
 // const domainUrl = 'http://192.168.1.18:8001/';
 // const endpoint = "https://api.ridd.in/api/"
+const domainUrl = "https://tune-plus.vercel.app/"
 
 
 const mainUrl = domainUrl
