@@ -45,7 +45,7 @@ app.use(bodyParser.urlencoded({ limit: '200mb', extended: true }));
 
 dotenv.config();
 app.use(cors({
-  origin: 'https://tune-plus-hwv3.vercel.app/'
+  origin: '*/*'
 }));
 
 
