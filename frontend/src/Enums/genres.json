@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    "name": "Pop",
+    "subgenres": [
+      { "id": 101, "name": "Dance-Pop" },
+      { "id": 102, "name": "Electropop" },
+      { "id": 103, "name": "Indie Pop" },
+      { "id": 104, "name": "Pop-Rock" },
+      { "id": 105, "name": "Soft Rock" },
+      { "id": 106, "name": "Adult Contemporary" },
+      { "id": 107, "name": "Teen Pop" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Rock",
+    "subgenres": [
+      { "id": 201, "name": "Alternative Rock" },
+      { "id": 202, "name": "Classic Rock" },
+      { "id": 203, "name": "Hard Rock" },
+      { "id": 204, "name": "Heavy Metal" },
+      { "id": 205, "name": "Indie Rock" },
+      { "id": 206, "name": "Progressive Rock" },
+      { "id": 207, "name": "Punk Rock" },
+      { "id": 208, "name": "Soft Rock" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Hip-Hop/Rap",
+    "subgenres": [
+      { "id": 301, "name": "Gangsta Rap" },
+      { "id": 302, "name": "Hip-Hop" },
+      { "id": 303, "name": "Old-School Rap" },
+      { "id": 304, "name": "Trap" },
+      { "id": 305, "name": "Underground Rap" },
+      { "id": 306, "name": "West Coast Rap" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Electronic",
+    "subgenres": [
+      { "id": 401, "name": "Ambient" },
+      { "id": 402, "name": "Breakcore" },
+      { "id": 403, "name": "Drum and Bass" },
+      { "id": 404, "name": "Dubstep" },
+      { "id": 405, "name": "Electro" },
+      { "id": 406, "name": "House" },
+      { "id": 407, "name": "Techno" },
+      { "id": 408, "name": "Trance" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Classical",
+    "subgenres": [
+      { "id": 501, "name": "Baroque" },
+      { "id": 502, "name": "Chamber Music" },
+      { "id": 503, "name": "Choral" },
+      { "id": 504, "name": "Classical Crossover" },
+      { "id": 505, "name": "Contemporary Classical" },
+      { "id": 506, "name": "Early Music" },
+      { "id": 507, "name": "Instrumental" },
+      { "id": 508, "name": "Opera" },
+      { "id": 509, "name": "Orchestral" },
+      { "id": 510, "name": "Romantic" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Jazz",
+    "subgenres": [
+      { "id": 601, "name": "Acid Jazz" },
+      { "id": 602, "name": "Bebop" },
+      { "id": 603, "name": "Big Band" },
+      { "id": 604, "name": "Contemporary Jazz" },
+      { "id": 605, "name": "Cool Jazz" },
+      { "id": 606, "name": "Free Jazz" },
+      { "id": 607, "name": "Fusion" },
+      { "id": 608, "name": "Hard Bop" },
+      { "id": 609, "name": "Latin Jazz" },
+      { "id": 610, "name": "Smooth Jazz" },
+      { "id": 611, "name": "Swing" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Indian Classical",
+    "subgenres": [
+      { "id": 701, "name": "Carnatic" },
+      { "id": 702, "name": "Hindustani" },
+      { "id": 703, "name": "Dhrupad" },
+      { "id": 704, "name": "Khayal" },
+      { "id": 705, "name": "Thumri" },
+      { "id": 706, "name": "Ghazal" },
+      { "id": 707, "name": "Qawwali" }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Bollywood",
+    "subgenres": [
+      { "id": 801, "name": "Filmi" },
+      { "id": 802, "name": "Item Number" },
+      { "id": 803, "name": "Playback Singing" },
+      { "id": 804, "name": "Romantic Ballad" }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Regional Indian",
+    "subgenres": [
+      { "id": 901, "name": "Assamese" },
+      { "id": 902, "name": "Bengali" },
+      { "id": 903, "name": "Bhojpuri" },
+      { "id": 904, "name": "Gujarati" },
+      { "id": 905, "name": "Kannada" },
+      { "id": 906, "name": "Malayalam" },
+      { "id": 907, "name": "Marathi" },
+      { "id": 908, "name": "Odia" },
+      { "id": 909, "name": "Punjabi" },
+      { "id": 910, "name": "Rajasthani" },
+      { "id": 911, "name": "Tamil" },
+      { "id": 912, "name": "Telugu" }
+    ]
+  }
+]
