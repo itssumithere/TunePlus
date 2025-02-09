@@ -24,20 +24,6 @@ const useSupportController = (props) => {
   }, [props])
   const handleSubmit = async (e) => {
     e.preventDefault();
-    // alert(issueType)
-    // const formData = new FormData();
-    // formData.append("issueType", issueType);
-    // formData.append("email", email);
-    // formData.append("clientNumber", clientNumber);
-    // formData.append("country", country);
-    // formData.append("description", description);
-    // formData.append("motionType", motionType);
-    // formData.append("motionLink", motionLink);
-
-    // Attach files (if any)
-    // (attachments || []).forEach((file, index) => {
-    //   formData.append(`attachments[${index}]`, file);
-    // });
     let body = {
       "issueType": issueType,
       "email": email,
@@ -48,10 +34,6 @@ const useSupportController = (props) => {
       "motionLink": "",
       "attachments": attachments
     }
-    // console.log("FormData Values:");
-    // for (let [key, value] of formData.entries()) {
-    //   console.log(`${key}: ${value}`);
-    // }
 
     try {
       const result = await postDataContent(base.addSupport, body);
